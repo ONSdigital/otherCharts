@@ -27,7 +27,7 @@ When it’s finished, go to the local `otherCharts` repo:
 * Merge in the source repo with `git merge source-repo --allow-unrelated-histories`
 * In your local `otherCharts` repo, tidy up by removing the local remote with `git remote rm source-repo`.
 * Delete the branch with the copy of the source with `git branch -d source-repo`
-* * Check the `moving-folders` branch looks correct, push it to the remote `otherCharts` with `git push -u origin moving-folders`, and open a pull request.
+* Check the `moving-folders` branch looks correct, push it to the remote `otherCharts` with `git push -u origin moving-folders`, and open a pull request.
 
 Delete the clone of the `Charts` repo. Do not push these changes!
 
