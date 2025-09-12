@@ -4,7 +4,7 @@ Repository for work-in-progress and infrequently used chart templates.
 
 ## Contributing
 
-* Do not update the `lib` folder in this repository. If you want to make changes, please make a pull request at [github.com/ONSvisual/charts-lib](https://github.com/ONSvisual/charts-lib). When merged, the changes to the `lib` folder will automatically be copied over.
+* Do not update the `lib` folder in this repository. If you want to make changes, please make a pull request at [github.com/ONSvisual/Charts](https://github.com/Charts). When merged, the changes to the `lib` folder will automatically be copied over.
 
 ## Tranferring
 
