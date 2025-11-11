@@ -1,0 +1,11 @@
+
+
+.CI {
+  forced-color-adjust: auto;
+}
+
+@media (forced-colors: active) {
+  .CI {
+    stroke-width: 3px;
+  }
+}
